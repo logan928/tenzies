@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://your-username.github.iologan928.github.io/your-repo-nametenzies",
+  "homepage": "https://logan928.github.io/your-repo-nametenzies",
   "dependencies": {
     "nanoid": "^5.1.5",
     "react": "^19.1.0",
