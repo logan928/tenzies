@@ -2,7 +2,7 @@
 
 Welcome to **Tenzies**, an addictive mini dice game built with **React**, **JSX**, and **CSS**! This project showcases my front-end development skills using **React Hooks** (`useState`, `useEffect`, and `useRef`) while delivering an engaging and interactive user experience.
 
-🕹️ **Play the game now**: [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+🕹️ **Play the game now**: [https://logan928.github.io/tenzies/](https://logan928.github.io/tenzies/)
 
 ---
 
@@ -48,6 +48,7 @@ It’s a simple game with enough complexity to show technical depth.
 🎯 Try It Now
 
 👉 Click here to play Tenzies!
+[https://logan928.github.io/tenzies/](https://logan928.github.io/tenzies/)
 
 Think you can beat it on your first try? 😎
 
