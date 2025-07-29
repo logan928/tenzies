@@ -1,6 +1,6 @@
 # 🎲 Tenzies Game - React App
 
-Welcome to **Tenzies**, a fast-paced, addictive dice game built with **React**, **JSX**, and **CSS**! This project showcases my front-end development skills using **React Hooks** (`useState`, `useEffect`, and `useRef`) while delivering an engaging and interactive user experience.
+Welcome to **Tenzies**, an addictive mini dice game built with **React**, **JSX**, and **CSS**! This project showcases my front-end development skills using **React Hooks** (`useState`, `useEffect`, and `useRef`) while delivering an engaging and interactive user experience.
 
 🕹️ **Play the game now**: [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
 
