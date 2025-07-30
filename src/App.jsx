@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 import "./App.css";
 import Die from "./assets/Die";
+import Header from "./Header";
 import { nanoid } from "nanoid";
 import ReactConfetti from "react-confetti";
 
@@ -62,6 +63,7 @@ function App() {
     <>
       <main>
         {gameWon && <ReactConfetti />}
+        <Header />
         <div className="dice-container">{dieElement}</div>
         <button ref={buttoRef} className="roll-dice" onClick={rollDice}>
           {!gameWon ? "Roll Dice" : "New Game"}
