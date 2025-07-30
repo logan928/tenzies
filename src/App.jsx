@@ -63,7 +63,7 @@ function App() {
     <>
       <main>
         {gameWon && <ReactConfetti />}
-        <Header />
+        <Header className="title" />
         <div className="dice-container">{dieElement}</div>
         <button ref={buttoRef} className="roll-dice" onClick={rollDice}>
           {!gameWon ? "Roll Dice" : "New Game"}
